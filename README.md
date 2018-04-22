@@ -1,2 +1,2 @@
 # dnshop.github.io
-Vanilla JS
+Only native javascript. No Frameworks, no compilers, no libraries, no boilerplate.
